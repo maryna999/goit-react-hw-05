@@ -1,0 +1,17 @@
+.navWrap {
+  margin: 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.navLink {
+  font-size: 25px;
+  color: rgb(9, 126, 132);
+}
+
+.navLink:hover {
+  color: rgb(0, 148, 174);
+}

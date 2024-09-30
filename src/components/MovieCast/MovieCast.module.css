@@ -1,0 +1,22 @@
+.title {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.cast {
+  display: flex;
+  flex-direction: raw;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitle {
+  max-width: 200px;
+}
+
+.item {
+  max-width: 200px;
+  max-width: 100%;
+}

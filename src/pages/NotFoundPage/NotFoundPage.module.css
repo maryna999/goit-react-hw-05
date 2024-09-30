@@ -1,0 +1,14 @@
+.notFound {
+  position: relative;
+  margin-top: 80px;
+  top: 50%;
+  left: 20%;
+}
+
+.back {
+  color: rgb(9, 126, 132);
+}
+
+.back:hover {
+  color: rgb(0, 148, 174);
+}

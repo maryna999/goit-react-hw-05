@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+
+.form {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+  padding-left: 50px;
+  position: relative;
+}
+
+.input {
+  min-width: 200px;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 12px;
+}
+
+.btn {
+  color: rgb(9, 126, 132);
+}
+
+.btn:hover {
+  color: rgb(0, 148, 174);
+}

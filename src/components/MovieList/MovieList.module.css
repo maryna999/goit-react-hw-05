@@ -1,0 +1,26 @@
+.list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.item {
+  transition: transform 0.3s ease;
+}
+
+.item:hover {
+  transform: scale(1.05);
+}
+
+.title {
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 0;
+  color: rgb(9, 126, 132);
+  max-width: 200px;
+  text-align: center;
+}
+
+.title:hover {
+  color: rgb(0, 148, 174);
+}
